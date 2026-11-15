@@ -1,0 +1,5 @@
+.vscode/
+NAO/
+gestures.pyc
+.env
+*.tmp

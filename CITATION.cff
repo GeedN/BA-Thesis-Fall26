@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: CSAI Thesis Code - Influence of Gestures and Culture
+on Social Robot Perception
+message: >-
+  If you use this software or data, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nisa
+    family-names: Geed
+    email: n.geed@tilburguniversity.edu
+repository-code: https://github.com/GeedN/BA-Thesis-Fall26
+url: https://github.com/GeedN/BA-Thesis-Fall26
+date-released: 2026-11-26
